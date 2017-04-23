@@ -1,0 +1,28 @@
+div{
+  border: 1px solid black;
+}
+
+header{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo{
+  color: MediumAquamarine;
+  display: flex;
+  padding-left: 20px;
+  align-items: center;
+}
+
+div.navbar li{
+  display: inline-block;
+  padding: 10px 20px;
+}
+
+div.navbar a{
+  color:black;
+}
