@@ -9,6 +9,7 @@ header{
   border-bottom: 1px solid black;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 10px;
 }
 
 .logo{
@@ -25,4 +26,20 @@ div.navbar li{
 
 div.navbar a{
   color:black;
+}
+
+div.content{
+  margin: 10px;
+}
+
+.large.column{
+  width: 630px;
+}
+
+.medium.column{
+  width:300px;
+}
+
+.small.column{
+  width:240px;
 }
